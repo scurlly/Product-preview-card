@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://scurlly.github.io/Product-preview-card/](https://your-solution-url.com)
 
 ## My process
 To build this project, I started by reviewing the design brief and breaking down the layout into its component parts. I then wrote the HTML markup to create the structure of the card, and used CSS to style it. I used a mobile-first approach, starting with a narrow viewport width and progressively adding styles for larger screens.
